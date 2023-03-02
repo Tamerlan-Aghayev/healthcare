@@ -1,0 +1,14 @@
+daoInter\PatientInter.class
+entities\Diagnoses.class
+daoImpl\DiagnoseImpl.class
+daoInter\DiagnoseInter.class
+daoInter\DoctorInter.class
+com\mycompany\e\healthcaremanagement\EHealthCareManagement.class
+entities\Diagnoses_.class
+entities\Doctors_.class
+entities\Patients.class
+daoInter\Context.class
+entities\Doctors.class
+daoImpl\PatientImpl.class
+daoImpl\DoctorImpl.class
+entities\Patients_.class
